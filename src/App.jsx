@@ -16,9 +16,9 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Get started</h1>
+          <h1>Lucas Cinigalia</h1>
           <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
+            Não edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
         </div>
         <button
@@ -41,7 +41,7 @@ function App() {
           <p>Your questions, answered</p>
           <ul>
             <li>
-              <a href="https://vite.dev/" target="_blank">
+              <a href="https://www.google.com/imgres?q=imagens%20para%20href&imgurl=https%3A%2F%2Fimg.magnific.com%2Fvetores-gratis%2Filustracao-de-compartilhar-icone_53876-5842.jpg%3Fsemt%3Dais_test_b%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.magnific.com%2Fbr%2Ffotos-vetores-gratis%2Flinks&docid=BtSNaZX6foRhwM&tbnid=0uT-TXCGpXD4XM&vet=12ahUKEwj_irSEp5eWAxUYDLkGHYWUO8gQnPAOegQIShAA..i&w=740&h=740&hcb=2&ved=2ahUKEwj_irSEp5eWAxUYDLkGHYWUO8gQnPAOegQIShAA" target="_blank">
                 <img className="logo" src={viteLogo} alt="" />
                 Explore Vite
               </a>
