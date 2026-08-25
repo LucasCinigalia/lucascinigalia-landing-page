@@ -38,7 +38,7 @@ jobs:
         run: npm run build
 
       - name: Configurar Pages
-        uses: actions/configure-pages@5
+        uses: actions/configure-pages@4
 
       - name: Empacotar e enviar o artefato
         uses: actions/upload-pages-artifact@v3
